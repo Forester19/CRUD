@@ -1,4 +1,4 @@
-package net.javist.go.pro.model;
+package net.javamen.go.pro.model;
 
 
 import  javax.persistence.*;

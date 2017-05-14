@@ -1,6 +1,6 @@
-package net.javist.go.pro.service;
+package net.javamen.go.pro.service;
 
-import net.javist.go.pro.model.Developer;
+import net.javamen.go.pro.model.Developer;
 
 import java.util.List;
 

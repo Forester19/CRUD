@@ -1,4 +1,4 @@
-package net.javist.go.pro;
+package net.javamen.go.pro;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

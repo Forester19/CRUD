@@ -1,7 +1,7 @@
-package net.javist.go.pro.service;
+package net.javamen.go.pro.service;
 
-import net.javist.go.pro.dao.DeveloperDAO;
-import net.javist.go.pro.model.Developer;
+import net.javamen.go.pro.dao.DeveloperDAO;
+import net.javamen.go.pro.model.Developer;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;

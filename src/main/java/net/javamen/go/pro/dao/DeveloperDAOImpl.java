@@ -1,6 +1,6 @@
-package net.javist.go.pro.dao;
+package net.javamen.go.pro.dao;
 
-import net.javist.go.pro.model.Developer;
+import net.javamen.go.pro.model.Developer;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
