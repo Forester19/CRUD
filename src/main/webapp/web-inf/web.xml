@@ -1,0 +1,27 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee" version="2.5">
+
+
+    <display-name>Some Manager</display-name>
+
+    <servlet>
+        <servlet-name>default</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <param-value>mvc-dispatcher-servlet.xml</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+
+    </servlet>
+
+
+
+
+
+    <servlet-mapping>
+        <servlet-name>default</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
+
+</web-app>
